@@ -11,8 +11,8 @@ If you have any questions or freelance enquiries, feel free to contact me at nat
 <!-- include buy me a coffee icon here -->
 
 ## GitHub Stats
-<img align="top" src="https://github-readme-stats.vercel.app/api/?username=natalieayuba&theme=nightowl&show_icons=true" />&nbsp;&nbsp;
-<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natalieayuba&theme=nightowl&layout=compact" />          
+<img align="top" src="https://github-readme-stats.vercel.app/api/?username=natalieayuba&theme=nightowl&show_icons=true&custom_title=My GitHub Stats" />&nbsp;&nbsp;
+<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natalieayuba&theme=nightowl&layout=compact&custom_title=My Most Used Languages&card_width=260" />          
 
 <!---
 natalieayuba/natalieayuba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
