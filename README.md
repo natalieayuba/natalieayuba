@@ -5,7 +5,7 @@ If you have any questions or freelance enquiries, feel free to contact me at nat
 
 ## About Me
 
-🌸 I have an affinity for ethnography, specifically understanding and empathising with the end users of a product  
+🌸 I have a keen interest for ethnography, specifically understanding and empathising with the end users of a product  
 💻 My favourite project so far is my final year project, an appointment scheduling system for university students written in Python  
 🎸 My hobbies include illustration, filmmaking, and music production :) 
 <!-- include buy me a coffee icon here -->
