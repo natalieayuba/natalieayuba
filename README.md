@@ -1,5 +1,5 @@
 # Bonjourno, fellow coders! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I’m Natalie Ayuba, a graduate software developer currently working in full-stack developement at <a href="https://www.cortex-ia.com/" target="_blank">Cortex IA</a>. Though I'm well-versed in full-stack, I'm super passionate UI/UX design and creating accessible, user-friendly interfaces for a wide range of user requirements. I have big dreams and hope to one day develop software that can aid the productivity and ease the mind of the everyday user.
+I’m Natalie Ayuba, a graduate software developer currently working in full-stack developement at <a href="https://www.cortex-ia.com/" target="_blank">Cortex IA</a>. Though I'm well-versed in full-stack, I'm super passionate UI/UX design and creating accessible, user-friendly interfaces for a wide range of user requirements. I have big dreams and hope to one day develop software that can aid the productivity of the everyday user.
 
 If you have any questions or like what I do, feel free to contact me at natalieayuba@hotmail.com or on <a href="https://www.linkedin.com/in/natalie-ayuba/" target="_blank">LinkedIn</a> :)
 
