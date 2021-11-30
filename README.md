@@ -12,10 +12,10 @@ If you have any questions or like what I do, feel free to contact me at nataliea
 
 <!-- <a href="#"><img align="left" src="https://cdn-icons-png.flaticon.com/512/975/975645.png" alt="Website icon" height="40px"/></a>
  -->
- 
+<!--  
 <a href="mailto:natalieayuba@hotmail.com"><img align="left" src="https://cdn-icons.flaticon.com/png/512/3059/premium/3059989.png?token=exp=1638296710~hmac=1fc2be6efb1753c49c997b895bed3209" alt="Email icon" height="40px"/></a>
 
-<a href="https://www.linkedin.com/in/natalie-ayuba/"><img align="left" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1638296315~hmac=17a858a9082bd1cec8ce701905af64a1" alt="LinkedIn icon" height="40px"/></a>
+<a href="https://www.linkedin.com/in/natalie-ayuba/"><img align="left" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1638296315~hmac=17a858a9082bd1cec8ce701905af64a1" alt="LinkedIn icon" height="40px"/></a> -->
 
 <!-- <a href="#"><img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" alt="Medium icon" height="40px"/></a> -->
 
@@ -24,9 +24,11 @@ If you have any questions or like what I do, feel free to contact me at nataliea
 <a href="#"><img align="left" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536806.png?token=exp=1638296472~hmac=9d14835e8c37df98bdf72016017c8cbf" alt="Behance icon" height="40px"/></a> -->
 
 
-<a href="https://www.buymeacoffee.com/natalieayuba" target="_blank" style="border-radius: 100px;">
+<!-- <a href="https://www.buymeacoffee.com/natalieayuba" target="_blank" style="border-radius: 100px;">
   <img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy me a coffee" height="41" width="174" />
-</a>
+</a> -->
+
+
 
 ## Tools & Technologies
 ![](https://img.shields.io/badge/HTML5-Frontend-informational?style=flat&logo=HTML5&logoColor=white&color=875DA7)
