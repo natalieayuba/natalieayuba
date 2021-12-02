@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/natalieayuba/natalieayuba/main/readme_header.png "Header")
+![Header](https://raw.githubusercontent.com/natalieayuba/natalieayuba/main/header.png "Header")
 
 # Bonjourno, fellow coders! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I’m Natalie Ayuba, a graduate software developer currently working in full-stack developement at <a href="https://www.cortex-ia.com/" target="_blank">Cortex IA</a>. Though I'm well-versed in full-stack, I'm super passionate UI/UX design and creating accessible, user-friendly interfaces for a wide range of user requirements. I have big dreams and hope to one day develop software that can aid the productivity of the everyday user.
