@@ -1,5 +1,3 @@
-![Header](https://raw.githubusercontent.com/natalieayuba/natalieayuba/main/readme_header.png "Header")
-
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I’m Natalie Ayuba, a full-stack developer and occasional graphic designer. I focus my role on UI/UX design and aim to develop accessible and usable interfaces to aid the everyday user.
