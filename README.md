@@ -1,3 +1,3 @@
-# Hi, I'm  Natalie! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi, I'm  Natalie!   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px">
 
-I’m a frontend developer and designer. I focus my work on UI/UX design and aim to develop engaging and user-friendly experiences.
+I’m a frontend developer and designer who makes fun and engaging web and mobile experiences.
